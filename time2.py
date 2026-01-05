@@ -3,7 +3,7 @@ import time
 from datetime import datetime, timedelta
 
 # --- 配置信息 ---
-MY_AMAP_KEY = "f387a7ee857d23c4fdd0134bfdced179"  # 请使用您自己的高德 Key
+MY_AMAP_KEY = "XX"  # 请使用您自己的高德 Key
 ORIGIN_COORDINATE = "113.8070,23.0450"      
 DESTINATION_COORDINATE = "114.0150,22.8550" 
 ROAD_SEGMENT_NAME = "石碣互通立交 - 塘厦立交"
