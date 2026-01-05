@@ -5,7 +5,7 @@ import os
 from datetime import datetime, timedelta, time as dt_time
 
 # --- 配置信息 ---
-MY_AMAP_KEY = "f387a7ee857d23c4fdd0134bfdced179"  # 请使用您自己的高德 Key
+MY_AMAP_KEY = "xx"  # 请使用您自己的高德 Key
 DONGGUAN_CITY_NAME = "东莞"        
 API_DOMAIN = "https://restapi.amap.com/v3/weather/weatherInfo" 
 
